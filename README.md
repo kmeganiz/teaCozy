@@ -1,7 +1,8 @@
 # TeaCozy-FlexBox
 
-A project by Codecademy: https://www.codecademy.com/courses/learn-intermediate-css/projects/tea-cozy
-<br/>
+A project by Codecademy
+<br>
+A quick look to my TeaCozy here: https://kmeganiz.github.io/teaCozy/index.html
 <br>
 -Learning Intermediate CSS-
 <br/>
